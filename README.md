@@ -40,8 +40,6 @@ site-15-portfolio/
 
 ## 📸 Preview
 
-> ⚠️ Make sure `preview.png` is uploaded in the same folder
-
 ![Portfolio Preview](preview15.png)
 
 ---
